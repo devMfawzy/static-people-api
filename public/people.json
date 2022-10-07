@@ -1,69 +1,69 @@
 [
     {
-        "avatar": "http://imglink",
+        "avatar": "https://raw.githubusercontent.com/devMfawzy/static-people-api/main/public/avatar/John.pdf",
         "name": "John",
         "phone": "0121234513",
         "isActive": true,
         "index": 1
     },
     {
-        "avatar": "http://imglink",
+        "avatar": "https://raw.githubusercontent.com/devMfawzy/static-people-api/main/public/avatar/Noah.pdf",
         "name": "Noah",
         "phone": "0121234513",
         "isActive": true,
         "index": 2
     },
     {
-        "avatar": "http://imglink",
+        "avatar": "https://raw.githubusercontent.com/devMfawzy/static-people-api/main/public/avatar/Oliver.pdf",
         "name": "Oliver",
         "phone": "0121234513",
         "isActive": false,
         "index": 10
     },
     {
-        "avatar": "http://imglink",
+        "avatar": "https://raw.githubusercontent.com/devMfawzy/static-people-api/main/public/avatar/Elijah.pdf",
         "name": "Elijah",
         "phone": "0121234513",
         "isActive": true,
         "index": 9
     },
     {
-        "avatar": "http://imglink",
+        "avatar": "https://raw.githubusercontent.com/devMfawzy/static-people-api/main/public/avatar/Lucas.pdf",
         "name": "Lucas",
         "phone": "0121234513",
         "isActive": false,
         "index": 7
     },
     {
-        "avatar": "http://imglink",
+        "avatar": "https://raw.githubusercontent.com/devMfawzy/static-people-api/main/public/avatar/Emma.pdf",
         "name": "Emma",
         "phone": "0121234513",
         "isActive": true,
         "index": 8
     },
     {
-        "avatar": "http://imglink",
+        "avatar": "https://raw.githubusercontent.com/devMfawzy/static-people-api/main/public/avatar/Sophia.pdf",
         "name": "Sophia",
         "phone": "0121234513",
         "isActive": true,
         "index": 5
     },
     {
-        "avatar": "http://imglink",
+        "avatar": "https://raw.githubusercontent.com/devMfawzy/static-people-api/main/public/avatar/Mia.pdf",
         "name": "Mia",
         "phone": "0121234513",
         "isActive": false,
         "index": 6
     },
     {
-        "avatar": "http://imglink",
+        "avatar": "https://raw.githubusercontent.com/devMfawzy/static-people-api/main/public/avatar/Isabella.pdf",
         "name": "Isabella",
         "phone": "0121234513",
         "isActive": true,
         "index": 4
     },
     {
-        "avatar": "http://imglink",
+        "avatar": "https://raw.githubusercontent.com/devMfawzy/static-people-api/main/public/avatar/Charlotte.pdf",
         "name": "Charlotte",
         "phone": "0121234513",
         "isActive": true,
