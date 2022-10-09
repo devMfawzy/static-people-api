@@ -3,6 +3,7 @@
         "avatar": "https://raw.githubusercontent.com/devMfawzy/static-people-api/main/public/avatar/John.png",
         "name": "John",
         "phone": "0121234513",
+        "email": "me@email.com",
         "isActive": true,
         "index": 1
     },
@@ -10,6 +11,7 @@
         "avatar": "https://raw.githubusercontent.com/devMfawzy/static-people-api/main/public/avatar/Noah.png",
         "name": "Noah",
         "phone": "0121234513",
+        "email": "me@email.com",
         "isActive": true,
         "index": 2
     },
@@ -17,6 +19,7 @@
         "avatar": "https://raw.githubusercontent.com/devMfawzy/static-people-api/main/public/avatar/Oliver.png",
         "name": "Oliver",
         "phone": "0121234513",
+        "email": "me@email.com",
         "isActive": false,
         "index": 10
     },
@@ -24,6 +27,7 @@
         "avatar": "https://raw.githubusercontent.com/devMfawzy/static-people-api/main/public/avatar/Elijah.png",
         "name": "Elijah",
         "phone": "0121234513",
+        "email": "me@email.com",
         "isActive": true,
         "index": 9
     },
@@ -31,13 +35,15 @@
         "avatar": "https://raw.githubusercontent.com/devMfawzy/static-people-api/main/public/avatar/Lucas.png",
         "name": "Lucas",
         "phone": "0121234513",
-        "isActive": false,
+        "email": "me@email.com",
+        "isActive": true,
         "index": 7
     },
     {
         "avatar": "https://raw.githubusercontent.com/devMfawzy/static-people-api/main/public/avatar/Emma.png",
         "name": "Emma",
         "phone": "0121234513",
+        "email": "me@email.com",
         "isActive": true,
         "index": 8
     },
@@ -45,6 +51,7 @@
         "avatar": "https://raw.githubusercontent.com/devMfawzy/static-people-api/main/public/avatar/Sophia.png",
         "name": "Sophia",
         "phone": "0121234513",
+        "email": "me@email.com",
         "isActive": true,
         "index": 5
     },
@@ -52,6 +59,7 @@
         "avatar": "https://raw.githubusercontent.com/devMfawzy/static-people-api/main/public/avatar/Mia.png",
         "name": "Mia",
         "phone": "0121234513",
+        "email": "me@email.com",
         "isActive": false,
         "index": 6
     },
@@ -59,6 +67,7 @@
         "avatar": "https://raw.githubusercontent.com/devMfawzy/static-people-api/main/public/avatar/Isabella.png",
         "name": "Isabella",
         "phone": "0121234513",
+        "email": "me@email.com",
         "isActive": true,
         "index": 4
     },
@@ -66,6 +75,7 @@
         "avatar": "https://raw.githubusercontent.com/devMfawzy/static-people-api/main/public/avatar/Charlotte.png",
         "name": "Charlotte",
         "phone": "0121234513",
+        "email": "me@email.com",
         "isActive": true,
         "index": 3
     }
